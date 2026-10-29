@@ -1,6 +1,12 @@
-# Folio
+<p align="center">
+  <a href="https://bensssonxx.github.io/folio/"><img src="https://bensssonxx.github.io/folio/images/folio-icon.png" width="80" height="80" alt="Folio" /></a>
+</p>
 
-[Folio website](https://bensssonxx.github.io/folio/) · [Download for Mac](https://github.com/Bensssonxx/folio-releases/releases/tag/v1.0.0)
+<h1 align="center">Folio</h1>
+<p align="center">Your semester, unfolded.</p>
+
+<h2 align="center"><a href="https://bensssonxx.github.io/folio/">Visit the Folio website →</a></h2>
+<p align="center"><a href="https://bensssonxx.github.io/folio/">bensssonxx.github.io/folio</a> · <a href="https://github.com/Bensssonxx/folio-releases/releases/tag/v1.0.0"><strong>Download for Mac</strong></a></p>
 
 A local Mac workspace for Canvas materials, course questions, and the sources behind every answer.
 
